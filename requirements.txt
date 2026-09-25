@@ -1,0 +1,32 @@
+# API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Database
+sqlalchemy
+psycopg[binary]
+pgvector
+alembic
+
+# RAG and AI
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+langgraph
+openai
+sentence-transformers
+
+# Document processing
+PyMuPDF
+python-docx
+
+# Configuration, networking, and uploads
+python-dotenv
+httpx
+python-multipart
+
+# Testing
+pytest
+pytest-asyncio
